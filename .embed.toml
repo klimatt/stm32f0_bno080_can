@@ -1,0 +1,9 @@
+[default.general]
+chip = "STM32F042K6TX"
+
+[default.rtt]
+enabled = true
+show_timestamps = true
+
+[default.probe]
+protocol = "Swd"
